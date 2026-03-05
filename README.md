@@ -63,32 +63,6 @@ Vendor notified of final status
 | GxP / FDA 21 CFR Part 11 | Regulatory compliance framework |
 
 ---
-
-## 📸 Screenshots
-
-### Login
-![Login](screenshots/login.png)
-
-### Admin — Audit Logs
-![Audit Logs](screenshots/audit-logs.png)
-
-### Admin — User Management
-![User Management](screenshots/user-management.png)
-
-### Vendor — Submit Invoice
-![Submit Invoice](screenshots/submit-invoice.png)
-
-### Vendor — Invoice History
-![Invoice History](screenshots/invoice-history.png)
-
-### Assistant — Pending Review
-![Pending Review](screenshots/pending-review.png)
-
-### Approver — Inbox
-![Approver Inbox](screenshots/approver-inbox.png)
-
----
-
 ## 📋 Compliance
 
 Designed to meet:
